@@ -1,0 +1,46 @@
+{
+  "book": {
+    "pride-and-prejudice": {
+      "title": "Pride and Prejudice",
+      "text": "Jane Austen originally titled the novel First Impressions. It became one of the most loved classics in English literature and is famous for Elizabeth Bennet and Mr. Darcy."
+    },
+    "1984": {
+      "title": "1984",
+      "text": "George Orwell wrote 1984 as a warning about surveillance, propaganda, and authoritarian control. Terms like Big Brother and thoughtcrime became widely known because of this novel."
+    },
+    "the-hobbit": {
+      "title": "The Hobbit",
+      "text": "The Hobbit was first written as a story for Tolkien's children. It later became the entry point to the larger world of Middle-earth."
+    },
+    "little-women": {
+      "title": "Little Women",
+      "text": "Louisa May Alcott drew from her own family life when writing Little Women, and the character of Jo is often seen as inspired by Alcott herself."
+    },
+    "the-book-thief": {
+      "title": "The Book Thief",
+      "text": "The Book Thief is narrated by Death, which gives the novel its unusual and memorable storytelling voice."
+    }
+  },
+  "writer": {
+    "jane-austen": {
+      "title": "Jane Austen",
+      "text": "Jane Austen published her novels anonymously during her lifetime. Her sharp observations about class, relationships, and manners made her one of the most influential novelists in English literature."
+    },
+    "george-orwell": {
+      "title": "George Orwell",
+      "text": "George Orwell was the pen name of Eric Arthur Blair. He is especially known for Animal Farm and 1984, both of which explore power and political control."
+    },
+    "tolkien": {
+      "title": "J.R.R. Tolkien",
+      "text": "Tolkien was not only a novelist but also a philologist. He created entire languages for the world of Middle-earth before finishing many of its stories."
+    },
+    "harper-lee": {
+      "title": "Harper Lee",
+      "text": "Harper Lee's To Kill a Mockingbird became an instant classic and won the Pulitzer Prize. For many years it was the only novel she published."
+    },
+    "louisa-may-alcott": {
+      "title": "Louisa May Alcott",
+      "text": "Louisa May Alcott first hesitated to write Little Women, but it became her most famous work and a lasting favorite across generations."
+    }
+  }
+}
