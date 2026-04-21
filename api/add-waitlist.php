@@ -1,7 +1,4 @@
 <?php
-// API endpoint: add member to waitlist
-// TODO: implement waitlist addition logic
-<?php
 header('Content-Type: application/json');
 
 $usersPath = "../data/users.json";
