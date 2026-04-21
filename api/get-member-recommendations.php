@@ -1,7 +1,4 @@
 <?php
-// API endpoint: get member recommendations
-// TODO: implement recommendation retrieval logic
-<?php
 header('Content-Type: application/json');
 
 function readJsonFile($path) {
