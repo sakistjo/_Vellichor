@@ -1,7 +1,4 @@
 <?php
-// API endpoint: get members list
-// TODO: implement member listing logic
-<?php
 header('Content-Type: application/json');
 
 $usersPath = "../data/users.json";
