@@ -1,7 +1,4 @@
 <?php
-// API endpoint: delete a member
-// TODO: implement member deletion logic
-<?php
 header('Content-Type: application/json');
 
 function readJsonFile($path) {
